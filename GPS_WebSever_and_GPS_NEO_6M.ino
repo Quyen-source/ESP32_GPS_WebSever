@@ -46,7 +46,7 @@ const char index_html[] PROGMEM = R"rawliteral(
 <body>
     <h1>Vị trí xe điều khiển</h1>
     <div id="map" style="width:100%; height:500px;"></div>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAF-SxVbbvVK5T4TGRhp38ENVDMtYfhgac&callback=initMap" async defer></script>
+    <script src="Your API Google Map" async defer></script>
 </body>
 </html>
 )rawliteral";
