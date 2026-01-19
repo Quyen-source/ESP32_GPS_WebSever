@@ -12,7 +12,7 @@ TinyGPSPlus gps;
 HardwareSerial gpsSerial(2); // UART2
 
 // WiFi Config
-const char* ssid = "HaUI Library";
+const char* ssid = "Your SSID";
 
 AsyncWebServer server(80);
 
